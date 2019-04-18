@@ -7,11 +7,9 @@
 </head>
 <body>
 <h1>Show zapatillas</h1>
-<g:each in="${tiposZapatillas}" var="tiposZapatillas">
 Nombre: ${tiposZapatillas.nombre}<br />
 Precio: ${tiposZapatillas.precio}<br />
 Descripcion: ${tiposZapatillas.descripcion}<br />
-</g:each>
 <g:link action="edit" id="${tiposZapatillas.id}">Edit</g:link><br />
 <g:link action="delete" id="${tiposZapatillas.id}">Delete</g:link><br />
 <g:link action="create" id="${tiposZapatillas.id}">Create</g:link>

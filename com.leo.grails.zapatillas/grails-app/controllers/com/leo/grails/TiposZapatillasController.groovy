@@ -13,7 +13,7 @@ class TiposZapatillasController {
 
 
     def index() {
-        redirect action: "show"
+        redirect action: "list"
     }
 
     def show() {
@@ -29,7 +29,12 @@ class TiposZapatillasController {
     def save() {
         def tiposZapatillasInstance = new TiposZapatillas(params)
         tiposZapatillasInstance.save flush: true, failOnError: true
-        redirect action: "show", id: tiposZapatillasInstance.id
+        redirect action: "index", id: tiposZapatillasInstance.id
+    }
+
+    def list = {
+        def tiposZapatillas = TiposZapatillas.list()
+        [tiposZapatillas: tiposZapatillas]
     }
 
     def edit() {
@@ -42,7 +47,7 @@ class TiposZapatillasController {
         def tiposZapatillas = TiposZapatillas.get(params.id)
         tiposZapatillas.properties = params
         tiposZapatillas.save flush: true, failOnError: true
-        redirect action: "show", id: params.id
+        redirect action: "index", id: params.id
     }
 
 
@@ -51,7 +56,7 @@ class TiposZapatillasController {
 
         def tiposZapatillas = TiposZapatillas.get(params.id)
         tiposZapatillas.delete flush: true, failOnError: true
-        redirect action: "show"
+        redirect action: "index"
     }
 
 }

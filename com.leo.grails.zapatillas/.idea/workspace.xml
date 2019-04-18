@@ -1,10 +1,854 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9af17077-7bf7-4b01-8637-382290c1955b" name="Default Changelist" comment="" />
+    <list default="true" id="9af17077-7bf7-4b01-8637-382290c1955b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/com.leo.grails.guestbook-grailsPlugins.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/com.leo.grails.guestbook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/apple-touch-icon-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/grails_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/database_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/database_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/database_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/database_save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/database_table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/exclamation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/shadow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/sorted_asc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/skin/sorted_desc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/images/springsource.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/stylesheets/errors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/stylesheets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/assets/stylesheets/mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/conf/BootStrap.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/conf/BuildConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/conf/Config.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/conf/DataSource.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/conf/UrlMappings.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/conf/spring/resources.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/controllers/com/leo/grails/guestbook/CommentController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/controllers/com/leo/grails/guestbook/FeedbackController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/controllers/com/leo/grails/guestbook/UserController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/domain/com/leo/grails/guestbook/Comment.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/domain/com/leo/grails/guestbook/Feedback.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/domain/com/leo/grails/guestbook/User.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_cs_CZ.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_da.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_es.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_it.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_nb.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_nl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_pl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_pt_BR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_pt_PT.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_ru.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_sv.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_th.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/i18n/messages_zh_CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/views/error.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/views/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grails-app/views/layouts/main.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grailsw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/grailsw.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BootStrap$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BootStrap$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BootStrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BuildConfig$_run_closure1$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BuildConfig$_run_closure1$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BuildConfig$_run_closure1$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BuildConfig$_run_closure1$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BuildConfig$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure1$_closure4$_closure5$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure1$_closure4$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure1$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure2$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure2$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config$_run_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3$_closure4$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3$_closure5$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3$_closure6$_closure9$_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3$_closure6$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource$_run_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/DataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/UrlMappings$__clinit__closure1$_closure2$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/UrlMappings$__clinit__closure1$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/UrlMappings$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/UrlMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/Comment$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__delete_closure10$_closure17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__delete_closure10$_closure18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__delete_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__save_closure8$_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__save_closure8$_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__save_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__update_closure9$_closure15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__update_closure9$_closure16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$__tt__update_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_create_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_delete_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_edit_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_notFound_closure7$_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_notFound_closure7$_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_notFound_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_save_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_show_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController$_update_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/Feedback$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/Feedback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__delete_closure10$_closure17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__delete_closure10$_closure18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__delete_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__delete_closure11$_closure18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__delete_closure11$_closure19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__delete_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__save_closure8$_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__save_closure8$_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__save_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__save_closure9$_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__save_closure9$_closure15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__save_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__update_closure10$_closure16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__update_closure10$_closure17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__update_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__update_closure9$_closure15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__update_closure9$_closure16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$__tt__update_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_create_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_create_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_delete_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_delete_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_edit_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_edit_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_index_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_notFound_closure7$_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_notFound_closure7$_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_notFound_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_notFound_closure8$_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_notFound_closure8$_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_notFound_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_save_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_save_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_show_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_show_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_update_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController$_update_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/FeedbackController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/User$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__delete_closure10$_closure17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__delete_closure10$_closure18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__delete_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__delete_closure11$_closure18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__delete_closure11$_closure19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__delete_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__save_closure8$_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__save_closure8$_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__save_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__save_closure9$_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__save_closure9$_closure15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__save_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__update_closure10$_closure16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__update_closure10$_closure17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__update_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__update_closure9$_closure15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__update_closure9$_closure16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$__tt__update_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_create_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_create_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_delete_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_delete_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_edit_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_edit_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_index_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_notFound_closure7$_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_notFound_closure7$_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_notFound_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_notFound_closure8$_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_notFound_closure8$_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_notFound_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_save_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_save_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_show_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_show_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_update_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController$_update_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/com/leo/grails/guestbook/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/resources$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/classes/resources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/stacktrace.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/TomcatGrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/InlineExplodedTomcatServer$_preStart_closure1$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/InlineExplodedTomcatServer$_preStart_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/InlineExplodedTomcatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/ParentDelegatingClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatKillSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatServer$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatServerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_addEventHookToBinding_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createEventListener_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createEventListener_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createEventListener_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createExecutionContext_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_findSystemClasspathJars_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_findSystemClasspathJars_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_startSecure_closure6$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_startSecure_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatExecutionContext$_buildMinimalIsolatedClasspath_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatExecutionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatWarRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineBootStrap$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineBootStrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure2$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure2$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure3$_closure6$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure3$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure3$_closure7$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure3$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/AssetPipelineGrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure1$_closure6$_closure8$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure1$_closure6$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure1$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure1$_closure7$_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure1$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure2$_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/CacheGrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DatabaseMigrationGrailsPlugin$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DatabaseMigrationGrailsPlugin$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DatabaseMigrationGrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DbdocUrlMappings$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DbdocUrlMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DefaultCacheConfig$_run_closure1$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DefaultCacheConfig$_run_closure1$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DefaultCacheConfig$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DefaultCacheConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DefaultWebXmlConfig$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/DefaultWebXmlConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/Hibernate4GrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryConfig$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryPluginResources$_run_closure1$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryPluginResources$_run_closure1$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryPluginResources$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryPluginResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib$_closure2$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib$_closure2$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib$_closure2$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib$_closure2$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryResourceTagLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryService$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryService$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryService$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryService$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryTagLib$_closure1$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryTagLib$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryTagLib$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryTagLib$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryTagLib$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryTagLib$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JQueryTagLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JqueryGrailsPlugin$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JqueryGrailsPlugin$_closure2$_closure3$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JqueryGrailsPlugin$_closure2$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JqueryGrailsPlugin$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/JqueryGrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure1$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure1$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_configureScaffoldingController_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_getScaffoldedActions_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_getScaffoldedActions_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin$_getScaffoldedActions_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/ScaffoldingGrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure2$_closure8$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure2$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure3$_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure4$_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure5$_closure12$_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure5$_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure6$_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/WebxmlGrailsPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetPipelineFilter$_doFilter_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetPipelineFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetProcessorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetResourceLocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure1$_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure2$_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure6$_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib$_paramsToHtmlAttr_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/CachingLinkGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/LinkGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/EmptyResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringAssetCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_cacheAllResources_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_cacheAllResources_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_createInputStreamClosure_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure3$_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure5$_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_scanForFiles_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_scanForFiles_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver$_scanForFiles_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/asset/pipeline/grails/fs/SpringResourceAssetResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/BlockingCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheConfigArtefactHandler$CacheConfigGrailsClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheConfigArtefactHandler$DefaultCacheConfigGrailsClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheConfigArtefactHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheEvict.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CachePut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheTagLib$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheTagLib$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/Cacheable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/ConfigBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/ConfigLoader$_sortConfigs_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/ConfigLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CustomCacheKeyGenerator$CacheKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/CustomCacheKeyGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsAnnotationCacheOperationSource$DefaultCacheKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsAnnotationCacheOperationSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsCacheAdminService$_clearAllCaches_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsCacheAdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsCacheManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsConcurrentMapCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsConcurrentMapCacheManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/GrailsValueWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/SerializableByteArrayOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/SerializableOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/SimpleKeyGenerator$SimpleKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/SimpleKeyGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/Timer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/compiler/CacheTransformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/util/ClassUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/AlreadyGzippedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/ContentCacheParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/Header$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/Header.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/HttpDateFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/PageInfo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/PageInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/SerializableCookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/AbstractFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/CacheExpressionRootObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/CacheOperationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/DefaultWebKeyGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/ExpressionEvaluator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/LazyParamAwareEvaluationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/NoOpFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$CacheStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/WebKeyGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/simple/MemoryBlockingCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/simple/MemoryCacheConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/cache/web/filter/simple/MemoryPageFragmentCachingFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ChangelogXml2Groovy$_appendAttrs_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ChangelogXml2Groovy$_appendWithIndent_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ChangelogXml2Groovy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_expandExpressions_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_extractZipFile_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_handleIncludedChangeLog_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_processIncludeAll_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_processProperty_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_processRollback_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_setPropertiesFromAttributes_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormColumn$_isIdentityColumn_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormColumn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createIdentifierGenerator_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createSnapshot_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createSnapshot_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure3$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseTypeConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GormDiff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChange$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChangeLogParser$_setChangelogProperties_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChangeLogParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsDiffStatusListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsPrecondition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GrailsPrecondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/HibernateAwareTypeConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationRunner$_autoRun_closure1$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationRunner$_autoRun_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationRunner$_runMigrations_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_getDataSourceConfigs_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_getDatabase_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_getDatabases_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure18$_closure20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer$_hasForeignKeyConstraintChange_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/NoopVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2$_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2$_closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_executeAndWrite_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_generatePreviousChangesetSql_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/Slf4jLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/AuthorListWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/AuthorWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/ColumnWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/HTMLListWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/HTMLWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/TableListWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/TableWriter$_writeCustomHTML_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/TableWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/grails/plugin/webxml/FilterManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig$_init_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig$_init_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator$GrailsControllerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/DomainClassPropertyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/GrailsTemplateGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/SimpleDomainClassPropertyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/view/ScaffoldedGroovyPageView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/view/ScaffoldingViewResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/AssetPipelineGrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/absolute-path/full-tree/full_tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/absolute-path/not-included/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/absolute-path/test/test_full_tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/absolute-path/test/test_tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/absolute-path/tree/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/gstringtest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/gstringtest2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/libs/file_a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/libs/file_b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/libs/file_c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/libs/subset/subset_a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/test2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/test_ext.javascript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/test_full_tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/asset-pipeline/test/test_multiple_file_directive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/META-INF/assets/grails_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/grails-app/conf/AssetPipelineBootStrap.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/grails-app/services/asset/pipeline/grails/AssetProcessorService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/grails-app/taglib/asset/pipeline/grails/AssetMethodTagLib.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/grails-app/taglib/asset/pipeline/grails/AssetsTagLib.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/scripts/AssetClean.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/scripts/AssetPrecompile.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/scripts/_AssetCompile.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/scripts/_Events.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/scripts/_Install.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/configuration.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/extending.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/extending/assetfile.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/extending/postprocessors.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/extending/processors.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/introduction.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/releases.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/releases/rel2.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/toc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/usage.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/usage/directives.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/usage/encoding.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/usage/linking.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/guide/usage/organization.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Command Line/asset-clean.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Command Line/asset-compile.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Command Line/asset-precompile.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Spring Beans/assetResourceLocator.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/assetPath.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/assetPathExists.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/deferredScripts.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/image.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/javascript.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/link.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/script.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/docs/ref/Tags/stylesheet.gdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/groovy/asset/pipeline/grails/AssetPipelineFilter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/groovy/asset/pipeline/grails/AssetResourceLocator.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/groovy/asset/pipeline/grails/CachingLinkGenerator.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/groovy/asset/pipeline/grails/LinkGenerator.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/groovy/asset/pipeline/grails/fs/EmptyResource.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/groovy/asset/pipeline/grails/fs/SpringAssetCache.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/asset-pipeline-2.1.5/src/groovy/asset/pipeline/grails/fs/SpringResourceAssetResolver.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/CacheGrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/grails-app/conf/DefaultCacheConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/grails-app/services/grails/plugin/cache/GrailsCacheAdminService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/grails-app/taglib/grails/plugin/cache/CacheTagLib.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/groovy/grails/plugin/cache/ConfigBuilder.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/groovy/grails/plugin/cache/ConfigLoader.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/BlockingCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/CacheBeanPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/CacheConfigArtefactHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/CacheConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/CacheEvict.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/CachePut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/Cacheable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/CustomCacheKeyGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/GrailsAnnotationCacheOperationSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/GrailsCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/GrailsCacheManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/GrailsConcurrentMapCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/GrailsConcurrentMapCacheManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/GrailsValueWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/SerializableByteArrayOutputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/SerializableOutputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/SimpleKeyGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/Timer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/compiler/CacheTransformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/util/ClassUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/AlreadyGzippedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/ContentCacheParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/GenericResponseWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/HttpDateFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/PageInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/SerializableCookie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/AbstractFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/CacheExpressionRootObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/CacheOperationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/DefaultWebKeyGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/ExpressionEvaluator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/LazyParamAwareEvaluationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/NoOpFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/PageFragmentCachingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/WebKeyGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/simple/MemoryBlockingCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/simple/MemoryCacheConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/cache-1.1.8/src/java/grails/plugin/cache/web/filter/simple/MemoryPageFragmentCachingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/DatabaseMigrationGrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/grails-app/conf/DbdocUrlMappings.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/grails-app/controllers/grails/plugin/databasemigration/DbdocController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_globalnav.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_overview-summary.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_stylesheet.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmChangelogSync.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmChangelogSyncSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmChangelogToGroovy.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmClearChecksums.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmCreateChangelog.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmDbDoc.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmDiff.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmDropAll.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmFutureRollbackSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmGenerateChangelog.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmGenerateGormChangelog.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmGormDiff.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmListLocks.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmListTags.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmMarkNextChangesetRan.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmPreviousChangesetSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmRegisterChangelog.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmReleaseLocks.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmRollback.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackCount.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackCountSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackToDate.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmRollbackToDateSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmStatus.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmTag.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdate.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdateCount.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdateCountSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmUpdateSql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/DbmValidate.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/_DatabaseMigrationCommon.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/_Events.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/scripts/_Install.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/ChangelogXml2Groovy.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/DslBuilder.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormColumn.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDatabase.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDatabaseTypeConverter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GormDiff.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsChange.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsChangeLogParser.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsDiffStatusListener.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GrailsPrecondition.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/HibernateAwareTypeConverter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MigrationRunner.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MigrationUtils.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/NoopVisitor.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/ScriptUtils.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/Slf4jLogger.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/AuthorListWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/AuthorWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/ColumnWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/HTMLListWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/HTMLWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/TableListWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/TableWriter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/database-migration-1.4.0/src/resources/changelog.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/hibernate4-4.3.8.1/Hibernate4GrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/hibernate4-4.3.8.1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/hibernate4-4.3.8.1/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/hibernate4-4.3.8.1/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/hibernate4-4.3.8.1/scripts/CreateHibernateCfgXml.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/hibernate4-4.3.8.1/scripts/SchemaExport.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/hibernate4-4.3.8.1/src/java/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/JqueryGrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/dependencies.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/grails-app/assets/javascripts/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/grails-app/conf/JQueryConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/grails-app/conf/JQueryPluginResources.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/grails-app/services/JQueryService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/grails-app/taglib/JQueryResourceTagLib.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/grails-app/taglib/JQueryTagLib.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/scripts/InstallJQuery.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/src/groovy/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/src/groovy/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/web-app/js/jquery/jquery-1.11.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/web-app/js/jquery/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/jquery-1.11.1/web-app/js/jquery/jquery-1.11.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/ScaffoldingGrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/CreateScaffoldController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/GenerateAll.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/GenerateAsyncController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/GenerateController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/GenerateRestfulController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/GenerateViews.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/_Events.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/scripts/_GrailsGenerate.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/groovy/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/DomainClassPropertyComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/GrailsTemplateGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/SimpleDomainClassPropertyComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/view/ScaffoldedGroovyPageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/view/ScaffoldingViewResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/artifacts/ScaffoldingController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/AsyncController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/AsyncSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/Controller.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/RestfulController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/RestfulSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/Spec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/_form.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/create.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/edit.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/renderEditor.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/show.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/TomcatGrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/grails-plugin-tomcat-7.0.55.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/scripts/Tomcat.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/scripts/_Events.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/InlineExplodedTomcatServer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/TomcatLoader.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/TomcatServer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/TomcatServerFactory.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/fork/ForkedTomcatServer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/fork/TomcatExecutionContext.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/groovy/org/grails/plugins/tomcat/fork/TomcatWarRunner.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/java/org/grails/plugins/tomcat/ParentDelegatingClassLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/tomcat-7.0.55.2/src/java/org/grails/plugins/tomcat/TomcatKillSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/WebxmlGrailsPlugin.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/dependencies.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/grails-app/conf/DefaultWebXmlConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/scripts/CreateWebXmlConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/scripts/_Events.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/src/groovy/grails/plugin/webxml/FilterManager.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/plugins/webxml-1.4.1/src/samples/_WebXmlConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_cs_CZ.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_da.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_es.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_it.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_nb.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_nl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_pl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_pt_BR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_pt_PT.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_ru.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_sv.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_th.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/grails-app/i18n/messages_zh_CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/resources/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/scriptCache/GenerateController$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/scriptCache/GenerateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/scriptCache/_GrailsGenerate_groovy$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/scriptCache/_GrailsGenerate_groovy$_run_closure2$_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/scriptCache/_GrailsGenerate_groovy$_run_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/scriptCache/_GrailsGenerate_groovy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/target/work/web.xml.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/test/unit/com/leo/grails/guestbook/CommentControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/test/unit/com/leo/grails/guestbook/CommentSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/test/unit/com/leo/grails/guestbook/FeedbackControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/test/unit/com/leo/grails/guestbook/FeedbackSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/test/unit/com/leo/grails/guestbook/UserControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/test/unit/com/leo/grails/guestbook/UserSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/web-app/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/web-app/WEB-INF/sitemesh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/web-app/WEB-INF/tld/c.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/web-app/WEB-INF/tld/fmt.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/web-app/WEB-INF/tld/grails.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/web-app/WEB-INF/tld/spring-form.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/web-app/WEB-INF/tld/spring.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/wrapper/grails-wrapper-runtime-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/wrapper/grails-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.leo.grails.guestbook/wrapper/springloaded-1.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.leo.grails.zapatillas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.leo.grails.zapatillas.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/eclipseclasses/" />
     <ignored path="$PROJECT_DIR$/../.grails/" />
+    <ignored path="$USER_HOME$/.grails/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +874,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/leo/grails/TiposZapatillasController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="360">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding>
                 <element signature="e#24#72#0" expanded="true" />
               </folding>
@@ -43,7 +887,7 @@
         <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/_form.gsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -66,21 +910,15 @@
         <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/show.gsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/list.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="2" selection-start-line="16" selection-end-line="16" selection-end-column="9" />
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GrailsSDKManager">
     <option name="grailsSDKs">
@@ -109,12 +947,13 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,19 +996,24 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Grails" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/usr/lib/grails-2.5.0" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,17 +1051,17 @@
       <updated>1555511065994</updated>
       <workItem from="1555511068771" duration="5835000" />
       <workItem from="1555592395616" duration="4420000" />
+      <workItem from="1555599297197" duration="476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10255000" />
+    <option name="totallyTimeSpent" value="10731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18926397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19147758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Persistence" order="3" side_tool="true" />
@@ -233,9 +1077,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Grails Console" order="10" weight="0.3297414" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Spring" order="12" />
@@ -290,26 +1134,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/edit.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/_form.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/index.gsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/list.gsp" />
     <entry file="file://$PROJECT_DIR$/grails-app/domain/com/leo/grails/zapatillas/TiposZapatillas.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -318,24 +1146,34 @@
       </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/show.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/_form.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/list.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/edit.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="2" selection-start-line="16" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/tiposZapatillas/show.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/leo/grails/TiposZapatillasController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="360">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
             <element signature="e#24#72#0" expanded="true" />
           </folding>
@@ -371,5 +1209,78 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zapatillas|grails</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
