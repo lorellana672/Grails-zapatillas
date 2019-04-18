@@ -8,52 +8,45 @@ import grails.transaction.Transactional
 class TiposZapatillasController {
 
 
+    //static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
 
-    static allowedMethods = [save: "POST", update: "PUT", delete: "DELETE"]
-
+    def TiposZapatillasService
 
     def index() {
         redirect action: "list"
-    }
-
-    def show() {
-        def tiposZapatillas = TiposZapatillas.get(params.id)
-        [tiposZapatillas: tiposZapatillas]
     }
 
     def create() {
         respond new TiposZapatillas(params)
     }
 
-    @Transactional
     def save() {
-        def tiposZapatillasInstance = new TiposZapatillas(params)
-        tiposZapatillasInstance.save flush: true, failOnError: true
-        redirect action: "index", id: tiposZapatillasInstance.id
+        //TiposZapatillasService.save(tiposZapatillas)
+        //redirect action:"index", method:"GET"
+        def tiposZapatillas = new TiposZapatillas(params)
+        tiposZapatillas.save flush: true, failOnError: true
+        redirect action: "index", id: tiposZapatillas.id
     }
 
-    def list = {
+    def list() {
+        //respond TiposZapatillasService.list()
         def tiposZapatillas = TiposZapatillas.list()
         [tiposZapatillas: tiposZapatillas]
     }
 
     def edit() {
-            def tiposZapatillas = TiposZapatillas.get(params.id)
-            [tiposZapatillas: tiposZapatillas]
+        def tiposZapatillas = TiposZapatillas.get(params.id)
+        [tiposZapatillas: tiposZapatillas]
     }
 
-    @Transactional
     def update() {
-        def tiposZapatillas = TiposZapatillas.get(params.id)
-        tiposZapatillas.properties = params
-        tiposZapatillas.save flush: true, failOnError: true
+        def tipoZapatillas = TiposZapatillas.get(params.id)
+        tipoZapatillas.properties = params
+        tipoZapatillas.save flush: true, failOnError: true
         redirect action: "index", id: params.id
     }
 
-
-    @Transactional
     def delete() {
-
         def tiposZapatillas = TiposZapatillas.get(params.id)
         tiposZapatillas.delete flush: true, failOnError: true
         redirect action: "index"
