@@ -1,0 +1,10 @@
+target/*
+*.iml
+.idea/*
+.classpath
+.project
+*.log
+.slcache/*
+out/*
+debug-app.sh
+logs/*
